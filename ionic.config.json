@@ -1,0 +1,7 @@
+{
+  "name": "SmartPrices",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
